@@ -1,0 +1,40 @@
+{
+  "settings": {
+    "showRanking": false
+  },
+  "games": [
+    {
+      "id": "jogo-1",
+      "date": "2026-06-16",
+      "home": "Espanha",
+      "away": "Cabo Verde",
+      "homeScore": null,
+      "awayScore": null
+    },
+    {
+      "id": "jogo-2",
+      "date": "2026-06-16",
+      "home": "Belgica",
+      "away": "Egito",
+      "homeScore": null,
+      "awayScore": null
+    },
+    {
+      "id": "jogo-3",
+      "date": "2026-06-16",
+      "home": "Arabia Saudita",
+      "away": "Uruguai",
+      "homeScore": null,
+      "awayScore": null
+    },
+    {
+      "id": "jogo-4",
+      "date": "2026-06-16",
+      "home": "Ira",
+      "away": "Nova Zelandia",
+      "homeScore": null,
+      "awayScore": null
+    }
+  ],
+  "guesses": []
+}
